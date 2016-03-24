@@ -56,7 +56,7 @@ var allProducts = [
     {
         title: 'Duke University',
         img: 'duke.png',
-       category: 'National Univerisity',
+       category: 'National University',
         subCategory: 'Medium Sized',
         attributes: {
             'Acceptance Rate': '11.4%',
